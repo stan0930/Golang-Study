@@ -1,0 +1,9 @@
+# Go build outputs
+/server
+*.exe
+*.test
+*.out
+
+# Local runtime files
+*.log
+.env
